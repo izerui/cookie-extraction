@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b86b3989-ce79-41fd-84b7-ae6889d3c595" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screen.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -53,7 +52,7 @@
           <entry key="html" value="294" />
           <entry key="js" value="895" />
           <entry key="json" value="21" />
-          <entry key="md" value="39" />
+          <entry key="md" value="55" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -62,7 +61,7 @@
           <entry key="HTML" value="294" />
           <entry key="JSON" value="21" />
           <entry key="JavaScript" value="895" />
-          <entry key="Markdown" value="39" />
+          <entry key="Markdown" value="55" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -92,8 +91,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="100" selection-start-line="5" selection-start-column="100" selection-end-line="5" selection-end-column="100" />
               </first_editor>
               <second_editor />
             </state>
@@ -164,6 +163,11 @@
               <item name="cookie-extraction" type="b2602c69:ProjectViewProjectNode" />
               <item name="cookie-extraction" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cookie-extraction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cookie-extraction" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -208,7 +212,7 @@
       <option name="presentableId" value="Default" />
       <updated>1545444326215</updated>
       <workItem from="1545444327449" duration="13394000" />
-      <workItem from="1545539610982" duration="362000" />
+      <workItem from="1545539610982" duration="545000" />
     </task>
     <task id="LOCAL-00001" summary="发">
       <created>1545491458175</created>
@@ -217,11 +221,25 @@
       <option name="project" value="LOCAL" />
       <updated>1545491458175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="发">
+      <created>1545539978563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545539978563</updated>
+    </task>
+    <task id="LOCAL-00003" summary="发">
+      <created>1545540062634</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545540062634</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13756000" />
+    <option name="totallyTimeSpent" value="13939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="0" />
@@ -230,7 +248,7 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20366456" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32914925" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.31799164" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="3" />
@@ -324,8 +342,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="100" selection-start-line="5" selection-start-column="100" selection-end-line="5" selection-end-column="100" />
           </first_editor>
           <second_editor />
         </state>
